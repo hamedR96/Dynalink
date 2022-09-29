@@ -1,6 +1,5 @@
 import numpy as np
 import scipy.sparse as sp
-
 from sklearn.utils import check_array
 from sklearn.preprocessing import normalize
 from sklearn.feature_extraction.text import TfidfTransformer
