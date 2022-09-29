@@ -1,2 +1,2 @@
 # Dynalink
-Dynamic Topic Modelling for Linked Documents
+Topic Modelling with Dynamic Representations for Linked Corpus
